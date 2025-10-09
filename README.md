@@ -41,6 +41,14 @@ I build web applications with JavaScript, TypeScript, and modern web technologie
 Stock market prediction using ensemble ML methods *(Work in Progress)*  
 `Python` `Machine Learning` `ARIMA` `Neural Networks` `Prophet`
 
+### 🎮 [Pokédex](https://github.com/Martin-Frei/JS_projects/tree/main/pokedex4)
+Interactive Pokémon encyclopedia with search and filtering  
+`JavaScript` `HTML` `CSS` `API Integration`
+
+### ⏱️ [Training Timer](https://github.com/Martin-Frei/JS_projects/tree/main/TrainingsTimer/TrainingsTimer2)
+Workout interval timer with customizable sets and rest periods  
+`JavaScript` `HTML` `CSS`
+
 ### 📸 [Fotogram](https://github.com/Martin-Frei/fotogram)
 Image gallery application with modern UI  
 `JavaScript` `HTML` `CSS`
