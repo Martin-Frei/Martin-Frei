@@ -20,10 +20,10 @@ I build web applications with JavaScript, TypeScript, and modern web technologie
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Data Science & ML:
+### Data Science & ML
 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Currently Learning
 
@@ -37,6 +37,10 @@ I build web applications with JavaScript, TypeScript, and modern web technologie
 
 ## 🚀 Featured Projects
 
+### 📈 [StockPredict](https://github.com/Martin-Frei/StockPredict) 🚧
+Stock market prediction using ensemble ML methods *(Work in Progress)*  
+`Python` `Machine Learning` `ARIMA` `Neural Networks` `Prophet`
+
 ### 📸 [Fotogram](https://github.com/Martin-Frei/fotogram)
 Image gallery application with modern UI  
 `JavaScript` `HTML` `CSS`
@@ -49,18 +53,14 @@ Interactive quiz application
 Order management system  
 `HTML` `CSS` `JavaScript`
 
-### 📈 [StockPredict](https://github.com/Martin-Frei/StockPredict) 🚧
-Stock market prediction using ensemble ML methods *(Work in Progress)*  
-`Python` `Machine Learning` `ARIMA` `Neural Networks` `Prophet`
-
 ---
 
 ## 📈 Currently
 
-- 🔭 Working on improving my TypeScript and SQL skills
-- 🌱 Learning React and modern frontend frameworks
-- 🎯 Building practical web applications
-- 💡 Exploring backend development with Node.js
+- 🔭 Building Django APIs with authentication and AI integration
+- 🌱 Learning TypeScript, React, Angular, and SQL
+- 🎯 Creating practical web applications with Python & JavaScript
+- 💡 Exploring modern frontend frameworks and database design
 
 ---
 
@@ -68,7 +68,7 @@ Stock market prediction using ensemble ML methods *(Work in Progress)*
 
 - 📍 **Location:** 10 km north of Rosenheim, Bavaria
 - 💼 **Open for:** Collaboration, freelance projects, tech discussions
-- ☕ **Coffee?** Always up for a technical conversation with a coffee!
+- ☕ **Coffee?** Always up for a technical conversation over coffee!
 
 ---
 
