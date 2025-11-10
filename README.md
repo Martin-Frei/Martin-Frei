@@ -11,6 +11,16 @@ I'm a **Fullstack Developer** transitioning from 20 years in business administra
 
 ---
 
+## 👀 Visitor Stats
+
+**Lifetime Visitors:**  
+![Visitor Count](https://profile-counter.glitch.me/Martin-Frei/count.svg)  
+
+**Today's Visitors:**  
+![Daily Visitor](https://api.countapi.xyz/hit/Martin-Frei/github-profile/daily?callback=)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -32,6 +42,8 @@ I'm a **Fullstack Developer** transitioning from 20 years in business administra
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### Data Science & ML
 
