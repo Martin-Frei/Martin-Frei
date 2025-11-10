@@ -11,18 +11,6 @@ I'm a **Fullstack Developer** transitioning from 20 years in business administra
 
 ---
 
-## 👀 Visitor Stats
-
-**Lifetime Visitors:**  
-![Lifetime Visitors](https://img.shields.io/endpoint?url=https://api.countapi.xyz/hit/Martin-Frei/github-profile/total)
- 
-
-**Today's Visitors:**  
-![Daily Visitors](https://img.shields.io/endpoint?url=https://api.countapi.xyz/hit/Martin-Frei/github-profile/daily)
-
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
