@@ -14,10 +14,12 @@ I'm a **Fullstack Developer** transitioning from 20 years in business administra
 ## 👀 Visitor Stats
 
 **Lifetime Visitors:**  
-![Visitor Count](https://profile-counter.glitch.me/Martin-Frei/count.svg)  
+![Lifetime Visitors](https://img.shields.io/endpoint?url=https://api.countapi.xyz/hit/Martin-Frei/github-profile/total)
+ 
 
 **Today's Visitors:**  
-![Daily Visitor](https://api.countapi.xyz/hit/Martin-Frei/github-profile/daily?callback=)
+![Daily Visitors](https://img.shields.io/endpoint?url=https://api.countapi.xyz/hit/Martin-Frei/github-profile/daily)
+
 
 ---
 
