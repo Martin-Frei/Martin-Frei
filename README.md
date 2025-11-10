@@ -50,13 +50,15 @@ I'm a **Fullstack Developer** transitioning from 20 years in business administra
 
 ## 🎯 Featured Projects
 
-### 🧩 [Join - Collaborative Kanban Board](https://github.com/Martin-Frei/join)
+### 🧩 Join - Collaborative Kanban Board
 **Team project** | Kanban-style task management application  
 `JavaScript` `HTML5` `CSS3` `Firebase` `Responsive Design`
 
+**🚀 [Live Demo ↗](https://martin-frei.github.io/join/)** | **📂 [Repository](https://github.com/Martin-Frei/join)**
+
 A comprehensive project management tool featuring drag-and-drop functionality, user authentication, and contact management. I developed the complete **Contacts Module** including Firebase integration, form validation, and UI components.
 
-**🚀 [Live Demo](https://martin-frei.github.io/join/)** | **Key Features:**
+**Key Features:**
 - Drag & drop task organization
 - Firebase real-time sync
 - Modular JavaScript architecture
