@@ -143,7 +143,7 @@ Intensive fullstack web development bootcamp
 
 ## 📫 Let's Connect!
 
-- 💼 **LinkedIn:** [martin-freimuth](https://www.linkedin.com/in/martin-freimuth)
+- 💼 **LinkedIn:** [martin-freimuth](https://www.linkedin.com/in/martin-freimuth-089249359/)
 - 📧 **Email:** mat.frei@gmx.de
 - 📍 **Location:** Rosenheim/Munich Region, Germany
 - 🌐 **Portfolio:** Coming soon!
