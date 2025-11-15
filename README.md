@@ -67,28 +67,13 @@ A comprehensive project management tool featuring drag-and-drop functionality, u
 
 ---
 
-### 📈 [StockPredict - ML Trading System](https://github.com/Martin-Frei/StockPredict)
-**Machine Learning** | Live stock price prediction with ensemble methods  
-`Python` `ARIMA` `LSTM` `Prophet` `scikit-learn` `Alpha Vantage API`
-
-Advanced stock prediction system using multiple ML models for 12 German bank stocks with real-time data integration.
-
-**Key Features:**
-- Ensemble methods combining ARIMA, LSTM, and Prophet
-- Live trading with Alpha Vantage API
-- Feature engineering with technical indicators
-- Neural network integration
-- Comprehensive backtesting
-
----
-
 ### 📱 [Pokédex - Interactive Pokemon Encyclopedia](https://github.com/Martin-Frei/pokedex)
 **Web App** | Modern Pokédex with PokeAPI integration  
 `JavaScript` `HTML5` `CSS3` `REST API` `Responsive Design`
 
 Clean, responsive Pokédex application showcasing API integration and modern web development practices.
 
-**Key Features:**
+**🚀 [Live Demo](https://martin-frei.github.io/pokedex/)** | **Key Features:**
 - Real-time data from PokeAPI
 - Advanced search & filter functionality
 - Detailed Pokemon stats and evolution chains
@@ -103,12 +88,27 @@ Clean, responsive Pokédex application showcasing API integration and modern web
 
 Professional workout timer with customizable intervals, offline functionality, and clean user interface.
 
-**Key Features:**
+**🚀 [Live Demo](https://martin-frei.github.io/training-timer/)** | **Key Features:**
 - Customizable work/rest intervals
 - Progressive Web App (PWA) capabilities
 - Offline functionality
 - Audio notifications
 - Responsive design for mobile use
+
+---
+
+### 📈 [StockPredict - ML Trading System](https://github.com/Martin-Frei/StockPredict)
+**Machine Learning** | Live stock price prediction with ensemble methods  
+`Python` `ARIMA` `LSTM` `Prophet` `scikit-learn` `Alpha Vantage API`
+
+Advanced stock prediction system using multiple ML models for 12 German bank stocks with real-time data integration.
+
+**Key Features:**
+- Ensemble methods combining ARIMA, LSTM, and Prophet
+- Live trading with Alpha Vantage API
+- Feature engineering with technical indicators
+- Neural network integration
+- Comprehensive backtesting
 
 ---
 
