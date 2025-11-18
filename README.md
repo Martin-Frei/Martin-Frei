@@ -101,7 +101,7 @@ Professional workout timer with customizable intervals, offline functionality, a
 **Machine Learning** | Live stock price prediction with ensemble methods  
 `Python` `ARIMA` `LSTM` `Prophet` `scikit-learn` `Alpha Vantage API`
 
-Advanced stock prediction system using multiple ML models for 12 German bank stocks with real-time data integration.
+Advanced stock prediction system using multiple ML models for 12 US bank stocks with real-time data integration.
 
 **Key Features:**
 - Ensemble methods combining ARIMA, LSTM, and Prophet
