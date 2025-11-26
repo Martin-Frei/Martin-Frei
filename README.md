@@ -141,13 +141,13 @@ Advanced stock prediction system using multiple ML models for 12 US bank stocks 
 - Neural network integration
 - Comprehensive backtesting
 
----
+<!-- ---
 
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Martin-Frei&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-Frei&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-Frei&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
