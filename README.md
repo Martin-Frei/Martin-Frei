@@ -97,6 +97,37 @@ Professional workout timer with customizable intervals, offline functionality, a
 
 ---
 
+### 🖼️ [Pexels Gallery - Image Search App](https://github.com/Martin-Frei/react-pexels-gallery)
+**React App** | Modern image gallery with API integration  
+`React` `Tailwind CSS` `Pexels API` `Hooks` `Responsive Design`
+
+Modern, responsive image gallery application with smart search and quick category filters. Demonstrates React Hooks, API integration, and async operations.
+
+**🚀 [Live Demo](https://martin-frei.github.io/react-pexels-gallery)** | **Key Features:**
+- Real-time image search via Pexels API
+- Pre-defined category quick filters
+- React Hooks (useState, useEffect, useRef)
+- Responsive grid layout with Tailwind CSS
+- Smooth loading states and transitions
+
+---
+
+### 🎮 [Rock Paper Scissors Game](https://github.com/Martin-Frei/React-RSPGame)
+**React Game** | Interactive best-of-5 match with score tracking  
+`React` `React Hooks` `Tailwind CSS` `Game Logic` `React Icons`
+
+Modern Rock Paper Scissors game with real-time score tracking and smooth animations. Demonstrates complex state management, game logic implementation, and timing control with React Hooks.
+
+**🚀 [Live Demo](https://martin-frei.github.io/React-RSPGame)** | **Key Features:**
+- Best of 5 rounds system
+- Live score tracking (Win/Lose/Draw)
+- React Hooks (useState, useEffect)
+- Automatic round reset with timing control
+- Responsive design with gradient UI
+- Icon-based controls with hover effects
+
+---
+
 ### 📈 [StockPredict - ML Trading System](https://github.com/Martin-Frei/StockPredict)
 **Machine Learning** | Live stock price prediction with ensemble methods  
 `Python` `ARIMA` `LSTM` `Prophet` `scikit-learn` `Alpha Vantage API`
