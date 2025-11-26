@@ -145,9 +145,9 @@ Advanced stock prediction system using multiple ML models for 12 US bank stocks 
 
 ## 📊 GitHub Stats
 
-![Martin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martin-Frei&show_icons=true&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Martin-Frei&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-Frei&layout=compact&theme=radical&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-Frei&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
