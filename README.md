@@ -31,8 +31,16 @@ I'm a **Fullstack Developer** transitioning from 20 years in business administra
 ### Backend Development
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### APIs & Integration
+
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white)
 
 
 ### Data Science & ML
@@ -128,6 +136,22 @@ Modern Rock Paper Scissors game with real-time score tracking and smooth animati
 
 ---
 
+### 🏥 [Diabetes Prediction - ML Classification](https://github.com/Martin-Frei/diabetes-prediction)
+**Machine Learning** | Handling imbalanced medical data with SMOTE  
+`Python` `XGBoost` `SMOTE` `scikit-learn` `Pandas` `Seaborn`
+
+Advanced classification model for diabetes prediction using XGBoost and SMOTE to handle highly imbalanced medical data. Demonstrates ML best practices for healthcare applications with focus on sensitivity and threshold optimization.
+
+**📊 [View Notebook](https://github.com/Martin-Frei/diabetes-prediction/blob/master/XGBoost_SMOTE_Diabeties.ipynb)** | **Key Features:**
+- 83.3% ROC-AUC score (Very Good!)
+- SMOTE for class imbalance handling
+- Threshold optimization (0.272 vs 0.5 default)
+- Medical-focused metrics (Sensitivity, Specificity)
+- Feature importance analysis
+- Comprehensive data visualization
+
+---
+
 ### 📈 [StockPredict - ML Trading System](https://github.com/Martin-Frei/StockPredict)
 **Machine Learning** | Live stock price prediction with ensemble methods  
 `Python` `ARIMA` `LSTM` `Prophet` `scikit-learn` `Alpha Vantage API`
@@ -153,22 +177,59 @@ Advanced stock prediction system using multiple ML models for 12 US bank stocks 
 
 ## 🎓 Education & Background
 
-**🎓 Developer Akademie** (2024-2025)  
-Intensive fullstack web development bootcamp  
-*Focus: JavaScript, Python/Django, React, Angular, Machine Learning*
+**🎓 Developer Akademie** (2025-Present)  
+*Fullstack Web Development Bootcamp*  
+Focus: JavaScript, Python/Django, React, Angular, Machine Learning
+
+**📚 Continuous Learning via Preply** (June 2024 - Present)  
+*Weekly 1-on-1 tutoring sessions with 6 international instructors*  
+Specialized training in: Python, Django, JavaScript, React, SQL, Java/Spring Boot
 
 **💼 Previous Career:**  
-20 years in business administration, controlling, and entrepreneurship  
+20 years in business administration, controlling, and entrepreneurship (incl. taxi company owner)  
 *Unique perspective: Combining technical skills with business acumen*
+
+**🎓 Betriebswirt VWA** (Business Administration Degree)  
+*VWA - University of Cooperative Education*  
+Foundation for 20+ years in business administration, controlling, and entrepreneurship
+
+**⚓ German Navy - Mine Diver** (Former)  
+*Specialized training in precision work, teamwork, and high-pressure environments*  
+Skills transferable to software development: attention to detail, systematic problem-solving, reliability
+
+---
+
+## 💼 Career Transition
+
+Bringing a unique combination of 20 years business expertise and modern software development skills. Understanding both the technical implementation and business impact enables me to build solutions that truly serve user needs and company goals.
+
+**Why This Matters:**  
+My business background gives me a strategic perspective that many developers lack. I don't just write code—I understand how it impacts operations, costs, and customer satisfaction. This combination of technical skills and business acumen makes me a valuable bridge between development teams and stakeholders.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Django patterns & REST APIs
-- Machine Learning deployment strategies
-- React ecosystem (Redux, Next.js)
-- Cloud deployment (AWS, Docker)
+**Backend Development:**
+- Django + HTMX for dynamic web apps
+- Django REST Framework for API development
+- Java & Spring Boot for enterprise applications
+- SQL mastery (MySQL, complex JOINs, optimization)
+
+**Frontend Development:**
+- React advanced patterns and hooks
+- Angular with TypeScript
+- Modern CSS frameworks and responsive design
+
+**Machine Learning:**
+- Supervised learning models (Linear Regression, Decision Trees)
+- Ensemble methods (Random Forest, XGBoost)
+- Model evaluation and deployment strategies
+
+**Database & DevOps:**
+- SQL database design and optimization
+- Backup strategies and data integrity
+- Version control with Git workflows
 
 ---
 
