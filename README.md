@@ -236,7 +236,7 @@ My business background gives me a strategic perspective that many developers lac
 - 💼 **LinkedIn:** [martin-freimuth](https://www.linkedin.com/in/martin-freimuth-089249359/)
 - 📧 **Email:** mat.frei@gmx.de
 - 📍 **Location:** Rosenheim/Munich Region, Germany
-- 🌐 **Portfolio:** Coming soon!
+- 🌐 **Portfolio:** Current in Work with Django !!
 - ☕ **Coffee?** Always up for a technical conversation over coffee!
 
 ---
