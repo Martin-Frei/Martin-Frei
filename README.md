@@ -245,7 +245,7 @@ My business background gives me a strategic perspective that many developers lac
 
 - 🚕 Former taxi operator and paramedic who became a software developer 
 - 💃 Passionate dancer (Standard/Latin, Boogie, Tango Argentino, Salsa, Bachata, Kizomba)
-- 🎯 Zielorientierter Lernender mit methodischem Ansatz und internationalen Tutoren
+- 🎯 Goal-oriented learner with a methodical approach and international tutors
 - 🖥️ Built a high-end development PC specifically for ML projects (Ryzen 9 5900X, RTX 4070)
 
 ---
