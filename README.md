@@ -243,9 +243,9 @@ My business background gives me a strategic perspective that many developers lac
 
 ## 💡 Fun Facts
 
-- 🚕 Former taxi company owner turned developer
-- 💃 Passionate dancer (Standard/Latin, Salsa, Bachata, Kizomba)
-- 🎯 Goal-oriented learner with a methodical approach
+- 🚕 Former taxi operator and paramedic who became a software developer 
+- 💃 Passionate dancer (Standard/Latin, Boogie, Tango Argentino, Salsa, Bachata, Kizomba)
+- 🎯 Zielorientierter Lernender mit methodischem Ansatz und internationalen Tutoren
 - 🖥️ Built a high-end development PC specifically for ML projects (Ryzen 9 5900X, RTX 4070)
 
 ---
