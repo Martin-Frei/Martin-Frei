@@ -149,12 +149,33 @@ Advanced classification model for diabetes prediction using XGBoost and SMOTE to
 - Comprehensive data visualization
 
 ---
+🤖 Gemini BMI Coach - AI Health Insights
+Fullstack AI Application | Django-based health assistant with LLM integration
+
+Python Django Google Gemini 1.5 Flash HTMX Tailwind CSS Railway
+
+A modern health assistant that goes far beyond a simple BMI calculator. By integrating the Google Gemini 1.5 Flash API, the application delivers instant, personalized, and motivational nutrition and exercise tips based on user data (age, height, weight).
+
+🚀 Live Demo at martin-freimuth.dev
+
+Key Features:
+
+AI Integration: Advanced prompt engineering to deliver tailored AI health recommendations.
+
+Dynamic UI: Seamless, interactive user experience without page reloads using HTMX.
+
+Fullstack Architecture: Robust Django backend featuring secure user authentication and API key management.
+
+Responsive Design: Fully optimized for mobile and desktop using Tailwind CSS.
+
+Professional Deployment: Hosted on Railway with strict environment variable security.
+---
 
 ### 📈 [StockPredict - ML Trading System](https://github.com/Martin-Frei/StockPredict)
 **Machine Learning** | Live stock price prediction with ensemble methods  
 `Python` `ARIMA` `LSTM` `Prophet` `scikit-learn` `Alpha Vantage API`
 
-Advanced stock prediction system using multiple ML models for 12 US bank stocks with real-time data integration.
+Advanced stock prediction system using multiple ML models for 12 US bank stocks with real-time data integration. Private Repository (Request Access)"
 
 **Key Features:**
 - Ensemble methods combining ARIMA, LSTM, and Prophet
@@ -229,6 +250,9 @@ My business background gives me a strategic perspective that many developers lac
 - Backup strategies and data integrity
 - Version control with Git workflows
 
+**Data Science & BI:**
+- Creation of complex dashboards in PowerBI, DAX programming
+- Integration of Python analyses for data-driven decision-making
 ---
 
 ## 📫 Let's Connect!
@@ -236,7 +260,7 @@ My business background gives me a strategic perspective that many developers lac
 - 💼 **LinkedIn:** [martin-freimuth](https://www.linkedin.com/in/martin-freimuth-089249359/)
 - 📧 **Email:** mat.frei@gmx.de
 - 📍 **Location:** Rosenheim/Munich Region, Germany
-- 🌐 **Portfolio:** Current in Work with Django !!
+- 🌐 **Portfolio:** [Portfolio- Work in Progress](https://www.martin-freimuth.dev)
 - ☕ **Coffee?** Always up for a technical conversation over coffee!
 
 ---
