@@ -258,7 +258,7 @@ My business background gives me a strategic perspective that many developers lac
 ## 📫 Let's Connect!
 
 - 💼 **LinkedIn:** [martin-freimuth](https://www.linkedin.com/in/martin-freimuth-089249359/)
-- 📧 **Email:** mat.frei@gmx.de
+- 📧 **Email:** martin@houseofstocks.dev
 - 📍 **Location:** Rosenheim/Munich Region, Germany
 - 🌐 **Portfolio:** [Portfolio- Work in Progress](https://www.martin-freimuth.dev)
 - ☕ **Coffee?** Always up for a technical conversation over coffee!
