@@ -1,5 +1,5 @@
 # Hi there, I'm Martin! 👋
-
+![Profile Views](https://komarev.com/ghpvc/?username=Martin-Frei&color=blue&style=for-the-badge)
 ## 🚀 About Me
 
 I build backend systems, ML pipelines, and AI workflows with Python and Django — and I bring 20 years of real business context to every line of code.
