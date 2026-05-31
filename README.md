@@ -2,13 +2,13 @@
 
 ## 🚀 About Me
 
-I build backend systems and ML pipelines with Python and Django — and I bring 20 years of real business context to every line of code.
+I build backend systems, ML pipelines, and AI workflows with Python and Django — and I bring 20 years of real business context to every line of code.
 
-After completing the Fullstack Developer Bootcamp at Developer Akademie (January 2025 – March 2026), I've been focused on production-grade ML projects: GlobalMarketMood processes tens of thousands of news articles daily across 28 global regions using NLP and sentiment analysis. StockPredict V2 is an LSTM + XGBoost ensemble achieving 66% hit rate on 12 US bank stocks — live since early 2026.
+After completing the Fullstack Developer Bootcamp at Developer Akademie (January 2025 – March 2026), I've been focused on production-grade systems: GlobalMarketMood processes tens of thousands of news articles daily across 28 global regions using NLP and sentiment analysis. StockPredict V2 is an LSTM + XGBoost ensemble achieving 66% hit rate on 12 US bank stocks — live since early 2026. And a multi-layer SAP Fraud Detection Pipeline built with n8n, Isolation Forest, and Claude AI.
 
 My background in business administration and entrepreneurship means I don't just build features — I understand why they matter.
 
-**🎯 Open to:** Junior Backend / ML Developer roles · Python focus · Munich or remote Germany
+**🎯 Open to:** Junior Backend / ML / AI Workflow roles · Python focus · Munich or remote Germany
 
 **📍 Location:** Rosenheim/Munich, Bavaria, Germany
 
@@ -33,6 +33,7 @@ My background in business administration and entrepreneurship means I don't just
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP%20%2F%20VADER-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Isolation Forest](https://img.shields.io/badge/Isolation_Forest-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### AI / LLM Integration
 
@@ -40,6 +41,14 @@ My background in business administration and entrepreneurship means I don't just
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-F6C915?style=for-the-badge&logo=databricks&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### Workflow Automation
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SAP OData](https://img.shields.io/badge/SAP_OData-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![APScheduler](https://img.shields.io/badge/APScheduler-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend — solide Grundlagen
 
@@ -52,13 +61,37 @@ My background in business administration and entrepreneurship means I don't just
 
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![APScheduler](https://img.shields.io/badge/APScheduler-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![UptimeRobot](https://img.shields.io/badge/UptimeRobot-3BD671?style=for-the-badge&logo=uptimerobot&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🎯 Featured Projects
+
+### 🔍 [SAP × n8n × AI — Fraud Detection Pipeline](https://github.com/Martin-Frei/sap_n8n_demo)
+**Two automated AI pipelines** | SAP OData · n8n · Isolation Forest · Claude AI
+`n8n` `Python` `Flask` `Isolation Forest` `Claude AI` `SAP OData API` `Supabase` `SMTP`
+
+No demos — production-grade architecture with real SAP Sandbox data.
+
+**Pipeline 1 — Sales Order Anomaly Detection:**
+- 12.000 SAP Sales Orders loaded via manual pagination ($top=500/$skip)
+- Isolation Forest (scikit-learn) as ML pre-filter: contamination=5%, 100 trees, joblib-persisted model
+- Flask Prediction Server (/health, /predict, /retrain) — n8n calls via HTTP Request
+- Claude AI explains every anomaly in plain language — 1 API call for all outliers → 95% cost reduction vs. N individual calls
+- Automated HTML email digest with risk distribution (KRITISCH/VERDÄCHTIG/PRÜFEN) and Top-5 anomaly days from Supabase history
+
+**Pipeline 2 — Email Verification (5-Layer Defense in Depth):**
+- Layer 1: DNS MX Check
+- Layer 2: SMTP Handshake
+- Layer 3: Entropy Check (mathematics, no training needed)
+- Layer 4: Isolation Forest (trained on 1.000 synthetic emails, 18 cultural backgrounds)
+- Layer 5: Claude AI (context + explanation for borderline cases)
+- **88% accuracy** — no single layer is perfect; together they mirror real AML detection systems
+
+**🚀 [GitHub Repo](https://github.com/Martin-Frei/sap_n8n_demo)**
+
+---
 
 ### 🌍 [GlobalMarketMood — NLP News Intelligence](https://www.houseofstocks.dev)
 **Production NLP Pipeline** | Sentiment analysis across 28 global regions
@@ -91,21 +124,21 @@ Ensemble ML system predicting daily price direction for 12 US bank stocks. Train
 
 ---
 
-### 🤖 SUSI — Personal AI Assistant *(Work in Progress)*
+### 🤖 SUSI — Personal AI Assistant *(Active Development)*
 **Local RAG System** | LangChain · Ollama · ChromaDB · Django
 `Python` `Django` `LangChain` `ChromaDB` `Ollama` `RAG` `nomic-embed-text` `qwen2.5-coder:7b`
 
-A fully local AI assistant built from scratch — no external API costs, no data leaving the machine. Currently running on a Ryzen 9 5900X + RTX 4070 with 214+ document chunks (SUSIpedia) indexed via ChromaDB and served through a Django backend. Long-term goal: replace DeepSeek API costs for GlobalMarketMood topic classification entirely.
+A fully local AI assistant built from scratch — no external API costs, no data leaving the machine. Currently running on a Ryzen 9 5900X + RTX 4070. Actively benchmarking chunk sizes, embedding models, and local LLMs for optimal RAG performance. Long-term goal: replace DeepSeek API costs for GlobalMarketMood topic classification entirely.
 
-**🔒 Private Repository (Request Access)** | **Key Features:**
+**🔒 Private Repository (Active Development)** | **Key Features:**
 - Local RAG pipeline — LangChain + ChromaDB + nomic-embed-text embeddings
 - 214+ chunks across 41 markdown files (SUSIpedia knowledge base)
 - Ollama-powered inference (qwen2.5-coder:7b), fully offline
 - Django backend with TOPIC_KEYWORDS routing
+- Active benchmarking: chunk sizes, embedding models, local LLMs
 
 **🗺️ Roadmap:**
 - Fine-tuning on domain-specific manuals and project documentation
-- Benchmarking and validation across multiple local models
 - Hardware upgrade to RTX 3090 for larger model support (32B–70B)
 - Replace DeepSeek API for GMM topic classification — 24/7 local inference
 
@@ -263,7 +296,7 @@ Structured deep-dive into relational database design, complex JOINs, query optim
 ## 📫 Let's Connect!
 
 - 💼 **LinkedIn:** [martin-freimuth](https://www.linkedin.com/in/martin-freimuth-089249359/)
-- 📧 **Email:** mat.frei@gmx.de
+- 📧 **Email:** martin@houseofstocks.dev
 - 📍 **Location:** Rosenheim/Munich Region, Germany
 - 🌐 **Portfolio:** [martin-freimuth.dev](https://www.martin-freimuth.dev)
 - ☕ **Coffee?** Always up for a technical conversation!
